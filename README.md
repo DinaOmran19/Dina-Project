@@ -1,2 +1,2 @@
 # Dina-Project
-This is new public
+This is new public.
